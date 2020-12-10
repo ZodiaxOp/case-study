@@ -1,0 +1,33 @@
+span {
+    color: red;
+    font-size: 16px;
+}
+
+li img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.bob {
+    background: black;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px cyan;
+}
+
+b {
+    color: cyan;
+}
+
+.bob3 {
+    text-align: center;
+    background: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+body {
+    background-color: black;
+}
